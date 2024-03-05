@@ -1,0 +1,9 @@
+ICME/shocks detected by Pioneer 10 and 11 during 1978
+Ref. Plasma shocks and energetic particles in the outer solar system: trapping and asymmetry observations from\
+Pioneer 10 and Pioneer 11, Instriligator, D.S; Miller, W.D; 1982\
+SC	shock	Date [mm/dd]	time [UT]	speed	speed_shock		heliocentric_distance  HGI_lat.    HGI_long
+Pioneer10	forward	05/27	0000	670	649				15.91   5.9    337.9    
+Pioneer10	reverse	06/01	0427	0	470				15.95  5.9 338
+Pioneer10	forward	06/05	0640	738	579				15.99   5.8 338
+Pioneer11	forward	06/08	0300	526	492				7.11  -0.60 75
+Pioneer11	forward	06/11	1800	910	766				7.13 -0.70 72.2 
