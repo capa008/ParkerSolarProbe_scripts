@@ -1,0 +1,128 @@
+# Interplanetary shocks list from IPShocks.com
+# Generated on 29.02.2024
+# Columns:
+# Year
+# Month (1-12)
+# Day (1-31)
+# Hour (0-23)
+# Minute (0-59)
+# Second (0-59)
+# Spacecraft
+# Spacecraft coordinates
+# Spacecraft coordinate system
+# Shock type
+1981  6  5 17 12 39  Helios-A    0.35   -5.24  133.80    HGI FF
+1981  5 25 20 30 38  Helios-A    0.48   -7.23   89.81    HGI FF
+1981  5 10  3 10  5  Helios-A    0.67   -6.05   57.51    HGI FF
+1981  5  6 17 23 40  Helios-A    0.71   -5.70   52.69    HGI FF
+1981  5  2 10 49 23  Helios-A    0.75   -5.25   47.27    HGI FF
+1981  4 27  3  1 23  Helios-A    0.80   -4.70   41.25    HGI FF
+1981  4 26  8 27 30  Helios-A    0.80   -4.62   40.44    HGI FF
+1981  4 25 11  5 53  Helios-A    0.81   -4.53   39.51    HGI FF
+1981  4 16 19 50 54  Helios-A    0.87   -3.67   31.25    HGI FF
+1981  4 16  7 47 57  Helios-A    0.87   -3.62   30.80    HGI FF
+1981  4 13  9 58 53  Helios-A    0.89   -3.35   28.28    HGI FF
+1981  4 13  9 10 59  Helios-A    0.89   -3.34   28.25    HGI FF
+1981  1 27 17 47 32  Helios-A    0.84    3.60  330.61    HGI FF
+1981  1 27  0  7 46  Helios-A    0.84    3.67  329.90    HGI FF
+1981  1 23  8 24 35  Helios-A    0.81    4.06  326.26    HGI FF
+1980 12 30 18 41 18  Helios-A    0.58    6.67  292.93    HGI FF
+1980 11 25  9  3 56  Helios-A    0.38   -6.12  121.37    HGI FF
+1980 11 14 10 32 33  Helios-A    0.51   -7.17   83.21    HGI FF
+1980  8  2  4 50  2  Helios-A    0.91    2.44  340.14    HGI FF
+1980  8  1 10 10 53  Helios-A    0.91    2.52  339.51    HGI FF
+1980  7  7 11 26 49  Helios-A    0.73    5.13  314.78    HGI FF
+1980  6 19 19 30 27  Helios-A    0.53    7.01  284.34    HGI FF
+1980  5  4 18 27  3  Helios-A    0.56   -6.97   75.39    HGI FF
+1980  3 29 11 52 26  Helios-A    0.89   -3.38   28.62    HGI FF
+1980  3 22 14  3  0  Helios-A    0.92   -2.73   22.92    HGI FF
+1980  3  5 14 34 30  Helios-B    0.93   -6.01   56.66    HGI FF
+1980  3  5  1 45 30  Helios-A    0.98   -1.16    9.88    HGI FF
+1980  2 29 14 54 41  Helios-A    0.98   -0.77    6.74    HGI FF
+1980  2 13 20 18 57  Helios-B    0.98   -4.78   41.82    HGI FF
+1980  2 12 22 20 20  Helios-A    0.98    0.70  354.99    HGI FF
+1980  2  7  0 28  3  Helios-A    0.96    1.23  350.72    HGI FF
+1980  2  6 20 40 51  Helios-B    0.98   -4.31   37.03    HGI FF
+1980  1 26 22 18 51  Helios-A    0.92    2.26  342.24    HGI FR
+1980  1 24 21  2  9  Helios-B    0.96   -3.35   27.95    HGI FF
+1980  1 10 23  8 48  Helios-A    0.83    3.85  328.12    HGI FF
+1980  1 10 20 48 27  Helios-B    0.91   -2.12   17.37    HGI FF
+1980  1  3 12 24 39  Helios-A    0.77    4.66  320.15    HGI FF
+1979 12 30 15 52  3  Helios-B    0.84   -0.93    7.63    HGI FF
+1979 12 23 13  1 49  Helios-A    0.66    5.90  305.46    HGI FF
+1979 12 15 12 32 35  Helios-A    0.56    6.76  290.88    HGI FF
+1979 12 13 12 25 27  Helios-B    0.69    1.50  348.11    HGI FF
+1979 12 13  8 57 19  Helios-A    0.54    6.95  286.07    HGI FF
+1979  4 28  4 28 27  Helios-A    0.46   -7.19   95.94    HGI FF
+1979  4 24  1 18 45  Helios-A    0.51   -7.18   84.00    HGI FF
+1979  4 22 13 32  3  Helios-A    0.53   -7.11   80.29    HGI FF
+1979  4  4 13 35  3  Helios-B    0.66   -7.23   93.00    HGI FF
+1979  4  3 19 45 57  Helios-A    0.74   -5.36   48.56    HGI FF
+1979  4  2 20  6 51  Helios-B    0.68   -7.24   90.46    HGI FF
+1979  3 27  8 53 39  Helios-B    0.75   -7.16   82.06    HGI FF
+1979  3 21 17 15  9  Helios-B    0.80   -7.00   75.79    HGI FF
+1979  3 20  4 36 10  Helios-B    0.81   -6.95   74.22    HGI FF
+1979  3 11  3 40 17  Helios-A    0.91   -3.00   25.24    HGI FF
+1979  3  3  9 33 49  Helios-B    0.92   -6.19   59.39    HGI FF
+1979  3  3  2  1 30  Helios-A    0.94   -2.26   18.88    HGI FF
+1979  2 27 20 38 14  Helios-B    0.93   -6.01   56.65    HGI FF
+1979  2 27  2 43  0  Helios-A    0.96   -1.90   15.90    HGI FF
+1979  1 23 21 59 21  Helios-A    0.97    1.12  351.53    HGI FR
+1979  1 13  8  0 21  Helios-A    0.93    2.09  343.53    HGI FF
+1979  1  9  3  5 31  Helios-B    0.93   -2.59   21.27    HGI FF
+1979  1  2 12 57 29  Helios-B    0.90   -1.97   16.04    HGI FF
+1978 12 29  6  5 28  Helios-B    0.88   -1.53   12.43    HGI FF
+1978 12 28 23  1 19  Helios-A    0.84    3.61  330.28    HGI FF
+1978 12 25 17 31  3  Helios-A    0.82    3.95  327.12    HGI FF
+1978 12 24  8  3  3  Helios-B    0.84   -0.99    8.00    HGI FF
+1978 12 22 20 21  3  Helios-A    0.80    4.26  324.11    HGI FF
+1978 12 22  9  2 27  Helios-A    0.79    4.31  323.60    HGI FF
+1978 12 13 12 45 48  Helios-B    0.75    0.42  356.75    HGI FF
+1978 12  9 14 58 45  Helios-A    0.67    5.74  307.52    HGI FF
+1978 12  5 17 47 36  Helios-A    0.63    6.18  301.31    HGI FF
+1978 10 18 16  8 38  Helios-A    0.47   -7.22   91.07    HGI FF
+1978 10 13 13 40 56  Helios-A    0.54   -7.06   77.62    HGI FF
+1978  9 25  2 25 10  Helios-A    0.75   -5.30   47.05    HGI FF
+1978  5 14 15  0 49  Helios-B    0.43    6.04  303.57    HGI FF
+1978  5 12  5 15  0  Helios-B    0.39    6.61  294.15    HGI FF
+1978  5  9  9 36 39  Helios-A    0.38    6.50  244.68    HGI FF
+1978  5  7 22 22 27  Helios-B    0.34    7.22  272.99    HGI FF
+1978  5  7 20  5 48  Helios-A    0.36    6.02  236.96    HGI FF
+1978  4 29  3 49 33  Helios-A    0.31    0.17  181.90    HGI FF
+1978  4 29  2 56 33  Helios-B    0.29    3.62  210.50    HGI FF
+1978  4 29  2 40 45  Helios-B    0.29    3.61  210.41    HGI FF
+1978  4 18 13 19 21  Helios-B    0.39   -4.15  145.30    HGI FF
+1978  4  9  7 16 15  Helios-B    0.52   -6.57  115.01    HGI FF
+1978  3 24 13 47 15  Helios-B    0.71   -7.22   87.00    HGI FR
+1978  3  8  8 45  9  Helios-A    0.83   -4.22   36.38    HGI FF
+1978  3  1 12 15 21  Helios-A    0.88   -3.55   30.03    HGI FF
+1978  3  1  4 14 27  Helios-B    0.89   -6.42   63.01    HGI FF
+1978  2 25  4 54 27  Helios-B    0.91   -6.22   59.79    HGI FF
+1978  2  6  7  2 24  Helios-B    0.98   -5.15   45.87    HGI FF
+1978  1  9 20 10 57  Helios-B    0.96   -3.22   26.75    HGI FF
+1978  1  3 14 50  9  Helios-B    0.94   -2.73   22.04    HGI FF
+1978  1  3  8 39 10  Helios-A    0.95    1.59  347.56    HGI FF
+1978  1  1 17 12  3  Helios-A    0.94    1.75  346.31    HGI FF
+1977 12 22 20 21 33  Helios-A    0.90    2.68  338.42    HGI FF
+1977 12  1  5 14  3  Helios-A    0.74    4.95  316.79    HGI FF
+1977 12  1  1 28 57  Helios-B    0.70    1.32  349.46    HGI FF
+1977 11  7 18 54 21  Helios-B    0.40    6.52  295.48    HGI FF
+1977  9 20 20 36 15  Helios-A    0.63   -6.44   62.90    HGI FF
+1977  9 20 19  4 27  Helios-A    0.63   -6.44   62.79    HGI FF
+1977  3 24  4 15  0  Helios-B    0.64   -7.20   96.09    HGI FF
+1977  3 16 19 47 26  Helios-B    0.72   -7.21   85.53    HGI FF
+1977  3 16 11 33  3  Helios-A    0.61   -6.61   66.86    HGI FF
+1977  1 28 21  7 21  Helios-B    0.98   -5.04   44.58    HGI FF
+1977  1 25 14 54 39  Helios-A    0.96   -1.74   14.40    HGI FF
+1977  1 11 20 17 57  Helios-B    0.98   -3.88   32.83    HGI FR
+1976 12  1 16 49 39  Helios-A    0.87    3.26  333.21    HGI FF
+1976  9 28 23  1  8  Helios-A    0.34   -4.91  136.93    HGI FF
+1976  4  1 13 28 27  Helios-B    0.44   -5.55  130.28    HGI FF
+1976  3 30  4 32 45  Helios-B    0.48   -6.10  122.85    HGI FF
+1976  2 17 20 42 57  Helios-B    0.89   -6.45   63.51    HGI FR
+1975 12  8  4  4  9  Helios-A    0.96    1.28  349.88    HGI FF
+1975 11 21 14  8 33  Helios-A    0.89    2.84  336.78    HGI FF
+1975  4  1 13  9 51  Helios-A    0.47    7.22  271.76    HGI FF
+1975  1 15 12 38 40  Helios-A    0.88   -3.54   29.71    HGI FR
+1975  1  8  0 22  9  Helios-A    0.92   -2.83   23.39    HGI FF
+1975  1  6 20 44  3  Helios-A    0.92   -2.72   22.46    HGI FF
